@@ -16,6 +16,7 @@ KPI's:
 8.Summary of each episode: This KPI will give a brief overview of each episode of Friends TV show, allowing viewers to quickly review the content of each episode.
 9.Count of Episodes by Director: This KPI will showcase the number of episodes directed by each director in the Friends TV show, highlighting any notable contributions or trends.
 
+Dashboards:
 
   <img width="686" alt="Main_Page" src="https://user-images.githubusercontent.com/112420165/235144237-df10dc40-ceaf-40fd-a621-0c05693babb1.png">
 
