@@ -17,6 +17,11 @@ KPI's:
 9.Count of Episodes by Director: This KPI will showcase the number of episodes directed by each director in the Friends TV show, highlighting any notable contributions or trends.
 
 Dashboard:
+  <img width="686" alt="Main_Page" src="https://user-images.githubusercontent.com/112420165/235144237-df10dc40-ceaf-40fd-a621-0c05693babb1.png">
+
+  <img width="694" alt="Show_Details" src="https://user-images.githubusercontent.com/112420165/235144308-26731ed8-19c4-4de0-ac01-93069cfd6b2c.png">
+
+  <img width="685" alt="Characters_Details" src="https://user-images.githubusercontent.com/112420165/235144372-0d016c82-8888-4e12-b2c9-e69ca67111f7.png">
 
 Insights:
 
