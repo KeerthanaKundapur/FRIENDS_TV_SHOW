@@ -1,11 +1,11 @@
-F.R.I.E.N.D.S Series Dashboard
+**F.R.I.E.N.D.S Series Dashboard**
 
-Objective:
+**Objective:**
 The objective of this Power BI dashboard project is to analyze various aspects of the Friends TV series franchise, and present the insights in an interactive and user-friendly format. The dashboard will provide detailed analysis of the show's popularity based on factors such as ratings, reviews, and social media interactions. It aims to offer Friends fans a comprehensive tool to explore and gain insights into the nuances of the show, making it an informative and engaging platform for the show's enthusiasts. The dashboard will also enable users to visualize trends and patterns related to the show, providing a deeper understanding of its cultural impact and significance.
 
-Tool: Power BI (For data cleaning and Visualization)
+**Tool:** Power BI (For data cleaning and Visualization)
 
-KPI's:
+**KPI's:**
 
 1.Total Seasons in Friends TV show: This KPI will showcase the number of seasons that were produced and aired for the Friends TV show. 
 
@@ -25,7 +25,7 @@ KPI's:
 
 9.Count of Episodes by Director: This KPI will showcase the number of episodes directed by each director in the Friends TV show, highlighting any notable contributions or trends.
 
-Dashboards:
+**Dashboards:**
 
   <img width="686" alt="Main_Page" src="https://user-images.githubusercontent.com/112420165/235144237-df10dc40-ceaf-40fd-a621-0c05693babb1.png">
 
@@ -35,7 +35,7 @@ Dashboards:
   
   <img width="685" alt="Characters_Details" src="https://user-images.githubusercontent.com/112420165/235144372-0d016c82-8888-4e12-b2c9-e69ca67111f7.png">
 
-Insights:
+**Insights:**
 
 The analysis of Friends TV show data reveals that the total number of seasons is 10, comprising a total of 236 episodes. The average rating of the show is 8.46, and it has garnered an average of 3.36k votes. The Year of Production and Average Duration have also been identified as important metrics.
 
