@@ -6,14 +6,23 @@ The objective of this Power BI dashboard project is to analyze various aspects o
 Tool: Power BI (For data cleaning and Visualization)
 
 KPI's:
-1.Total Seasons in Friends TV show: This KPI will showcase the number of seasons that were produced and aired for the Friends TV show.
+
+1.Total Seasons in Friends TV show: This KPI will showcase the number of seasons that were produced and aired for the Friends TV show. 
+
 2.Total number of episodes: This KPI will display the total number of episodes that were aired across all the seasons of Friends TV show.
+
 3.Average stars: This KPI will show the average star rating that Friends TV show has received across various review platforms.
-4.Average votes: This KPI will showcase the average number of votes that each episode of Friends TV show has received on popular online       platforms.
+
+4.Average votes: This KPI will showcase the average number of votes that each episode of Friends TV show has received on popular online platforms.
+
 5.Count of Episodes by Season: This KPI will provide a breakdown of the number of episodes in each season of Friends TV show, highlighting any trends or patterns across the seasons.
+
 6.Year of production: This KPI will show the year in which each season of Friends TV show was produced, giving an insight into the show's longevity and cultural impact.
+
 7.Average duration: This KPI will display the average duration of each episode of Friends TV show, providing insight into the show's pacing and structure.
+
 8.Summary of each episode: This KPI will give a brief overview of each episode of Friends TV show, allowing viewers to quickly review the content of each episode.
+
 9.Count of Episodes by Director: This KPI will showcase the number of episodes directed by each director in the Friends TV show, highlighting any notable contributions or trends.
 
 Dashboards:
